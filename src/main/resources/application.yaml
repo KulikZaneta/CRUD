@@ -8,8 +8,3 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-
-  security:
-    jwt:
-      token:
-        secret-key: admin
