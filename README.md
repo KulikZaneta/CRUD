@@ -17,3 +17,7 @@
 * PostreSQL(on Heroku)
 
 * Thymeleaf
+
+## Demo:
+https://crud-app-v1.herokuapp.com/login
+
